@@ -21,6 +21,7 @@
   <mj-body>
     <mj-container width="600">
       <mj-include path="include/header" />
+      
       <mj-section background-color="#a41d2d">
         <mj-column>
           <mj-image src="img/button1.jpg" width="312" mj-class="padNone" href="http://krds.com/in/en/" />
